@@ -1,1 +1,1 @@
-Here you'll find step-by-step resources for getting started in dmall with a **user** token.
+Here you'll find step-by-step resources for getting started with dmall with one or more **user** tokens.
